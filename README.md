@@ -1,4 +1,4 @@
-# WiiUScreen2Cemu
+# WiiUApps2Cemu
 
 check Isuues or Realeases
 
