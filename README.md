@@ -9,6 +9,13 @@ check Isuues or Realeases
 
 This is the wii u menu and all the standard applications of this console for the Cemu emulator (1.12 or newer). So far, this is the European version. American soon!.
 
+# Working apps
+- Mii maker
+- menu wiiu
+- system settings
+- nintendo tvii
+- menu HOME
+
 # Now to install?
 - Open Cemu and look at your MLC directory in the settings
 
