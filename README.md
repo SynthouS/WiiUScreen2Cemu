@@ -25,8 +25,7 @@ This is the wii u menu and all the standard applications of this console for the
 
 # Update
 
-- Fix russian language
-- Translate app text
+- add US version
 
 # Authors
 
