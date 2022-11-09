@@ -5,9 +5,9 @@ check Isuues or Realeases
 ![App Screenshot](https://cdn.discordapp.com/attachments/1005861052510117948/1006219353949225031/kindpng_1648417.png)
 
 
-## Who?
+## What?
 
-This is the wii u menu and all the standard applications of this console for the Cemu emulator (1.12 or newer). So far, this is the European version. American soon!.
+This is the wii u menu and all the standard applications of this console for the Cemu emulator (1.12 or newer). So far, this is the European version & American.
 
 # Working apps
 - Mii maker
