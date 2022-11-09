@@ -29,4 +29,4 @@ This is the wii u menu and all the standard applications of this console for the
 
 # Authors
 
-[@TheSipod](https://github.com/TheSipod)
+[@Synth](https://github.com/SynthouS)
