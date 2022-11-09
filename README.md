@@ -16,7 +16,7 @@ This is the wii u menu and all the standard applications of this console for the
 - nintendo tvii
 - menu HOME
 
-# Now to install?
+# How to install?
 - Open Cemu and look at your MLC directory in the settings
 
 - go to the directory
@@ -25,7 +25,7 @@ This is the wii u menu and all the standard applications of this console for the
 
 # Update
 
-- add US version
+- added US version
 
 # Authors
 
